@@ -1,0 +1,12 @@
+{
+  "name": "node-js-projects",
+  "version": "1.0.0",
+  "description": "### MERN STACK EXPENCE MANAGEMENT SYSTEM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
